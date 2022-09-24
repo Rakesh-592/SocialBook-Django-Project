@@ -1,0 +1,2 @@
+# SocialBook-Django-Project
+Hi This is a Project about Social Web Application that is created using Django from Python. But Yes Ofcourse it contains some html, css, Js files which I took as a Boiler Plate codes. This is the Project that I have built from freecodecamp's Django web application which is about 5 hours Hope you like this and all the best and Notify any changes and Make pull requests to commit.
